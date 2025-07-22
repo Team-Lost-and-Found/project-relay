@@ -1,0 +1,11 @@
+commit e2f3a1a Add FastAPI routing endpoint
+Author: Alice Dev <alice@company.com>
+Date:   2024-06-10 14:22:01
+
+    Implemented basic /route endpoint for concern classification.
+
+commit c1b4f11 Initial project setup
+Author: Bob Eng <bob@company.com>
+Date:   2024-06-03 09:18:15
+
+    Initialized FastAPI app and created backend/main.py.

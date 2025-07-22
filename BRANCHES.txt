@@ -1,0 +1,7 @@
+# Project Relay - Branches
+
+main
+feature/routing-fallback
+feature/slack-integration
+bugfix/api-auth
+release/v0.1.0
